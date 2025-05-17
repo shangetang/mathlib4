@@ -19,6 +19,9 @@ require "leanprover-community" / "importGraph" @ git "main"
 require "leanprover-community" / "LeanSearchClient" @ git "main"
 require "leanprover-community" / "plausible" @ git "main"
 
+require REPL from git "https://github.com/leanprover-community/repl.git" @ "2f0a3cb876b045cc0fe550ca3a625bc479816739"
+
+
 /-!
 ## Options for building mathlib
 -/
